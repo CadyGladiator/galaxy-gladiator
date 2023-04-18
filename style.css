@@ -1,0 +1,55 @@
+body{
+  background-image: linear-gradient(to right, #e3d7fa, #d3c1f5, #9567eb);
+  padding: 0;
+  margin: 0;
+}
+
+/* Navigation Bar */
+.topnav {
+  background-color: #614d78;
+  overflow: hidden;
+  width: 100%;
+}
+
+.topnav a {
+  float: left;
+  color: #85fcfc;
+  font-family: "Bookman", "URW Bookman L", serif;
+  text-align: center;
+  padding: 14px 16px;
+  border-right: 1px solid #bbb;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #d27dd4;
+}
+
+/* Text Colors and Size */
+h1 {
+  color: #381935;
+  font-family: "Bookman", "URW Bookman L", serif;
+  font-size: 60px;
+}
+
+h2 {
+  color: #381935;
+  font-family: "Bookman", "URW Bookman L", serif;
+}
+
+h3 {
+  color: #381935;
+  font-family: "Bookman", "URW Bookman L", serif;
+}
+
+h4 {
+  color: #1b5951;
+  font-family: "Bookman", "URW Bookman L", serif;
+}
+
+p {
+  color: #1b5951;
+  font-family: "Bookman", "URW Bookman L", serif;
+}
+
